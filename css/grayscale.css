@@ -259,8 +259,8 @@ a:focus {
   border-radius: 0;
 }
 .btn-default {
-  border: 1px solid #ffc0cb;
-  color: #ffc0cb;
+  border: 1px solid #ed6cca;
+  color: #ed6cca;
   background-color: transparent;
 }
 .btn-default:hover,
